@@ -1,0 +1,19 @@
+
+#container{
+    display: flex;
+    border-radius: 5px;
+    gap: 10px;
+    flex-direction: column;
+    align-items: center;
+
+
+    
+}
+.demo{
+    background-color: crimson;
+    color: white;
+     border-radius: 5px;
+    padding: 8px 10px;
+    border: none;
+    
+}
